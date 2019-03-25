@@ -1,0 +1,2 @@
+# Techwiz
+.NetCore Framework
